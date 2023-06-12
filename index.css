@@ -1,0 +1,22 @@
+body {
+    border : solid;
+    border-width: 2px;
+}
+#main {
+    background-color: beige;
+    padding: 2px;
+}
+
+body h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    position: relative;
+    left: 40%;
+}
+ul li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    position: relative;
+    left: 40%;
+    width: 50px;
+}

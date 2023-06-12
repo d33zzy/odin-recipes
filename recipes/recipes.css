@@ -1,0 +1,37 @@
+body h1 {
+    position: relative;
+    left: 38%;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body h2,h3 {
+    position: relative;
+    left: 38%;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body img {
+    position:relative;
+    left: 34%;
+    border: solid;
+    border width: 5px;
+    border-color: green;
+    align-items: center;
+}
+ul li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    position: relative;
+    left: 40%;
+}
+ol li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    position: relative;
+    left: 40%;
+}
+ol {
+    position: relative;
+    left: 28%;
+    width: 550px;
+}
